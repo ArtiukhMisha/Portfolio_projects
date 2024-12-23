@@ -43,7 +43,6 @@ sns.barplot(x="GDP", y="Country", data=dfMeans, palette="Set2")
 plt.xlabel("GDP")
 plt.show()
 plt.clf()
-
 # _________________________________________________________________________________________________
 # GDP-YEAR in each country
 
